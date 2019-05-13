@@ -19,3 +19,7 @@ Say what the step will be
 ```
  pip install pillow
 ```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
