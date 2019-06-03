@@ -6,18 +6,8 @@ This project is just an example sample that explanes how to save the gif when yo
 
 To be able to run the example you need to install the following libraries
 
-Say what the step will be
-
 ```
- pip install numpy
-```
-
-```
- pip install matplotlib
-```
-
-```
- pip install pillow
+ pip install -r requirements.txt
 ```
 
 ## License
